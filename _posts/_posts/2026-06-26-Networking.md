@@ -1,4 +1,4 @@
-#Networking 
+# Networking 
 
 **Posted on: 6/26/26**
 
@@ -22,5 +22,9 @@ It’s one thing to do it in class in a lab, but another to actually be doing it
 - Gained hands‑on field experience with Ethernet wiring—very different from classroom lab work.
 - Bonus: received a USAA cowboy hat !!!
 
-
+<img width="1200" height="1892" alt="Image (4)" src="https://github.com/user-attachments/assets/3c45c70d-ccf6-4a59-a4ba-79b83e3b65c7" />
+<img width="3023" height="4031" alt="Image" src="https://github.com/user-attachments/assets/a16dc268-f375-4cfb-bc6c-48eb8b5bf3da" />
+<img width="3023" height="4031" alt="Image (1)" src="https://github.com/user-attachments/assets/00e8f34a-95bc-479b-81a3-05f21f1eced9" />
+<img width="3023" height="4031" alt="Image (2)" src="https://github.com/user-attachments/assets/9e7962ea-c321-46ad-b58c-1297518eef4d" />
+<img width="3023" height="4031" alt="Image (3)" src="https://github.com/user-attachments/assets/5279d353-2d2e-4f80-b8b5-ba3d34c8bb4c" />
 
